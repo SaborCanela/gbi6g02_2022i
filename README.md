@@ -6,8 +6,7 @@ Inserte un logo
 - Quito
 - Masculino
 ## DETALLES DEL EQUIPO
-Inserte un video de Youtube (sobre cómo ver las propiedades del computador )
-
+- No pude cargar el video pero aca le dejo un url
 ## DETALLES DE PROGRAMAS 
 - GitBash
 - Visul Code
